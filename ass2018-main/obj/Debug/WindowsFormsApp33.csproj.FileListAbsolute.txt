@@ -1,0 +1,41 @@
+C:\Users\студент44\source\repos\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe.config
+C:\Users\студент44\source\repos\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe
+C:\Users\студент44\source\repos\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.pdb
+C:\Users\студент44\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csprojAssemblyReference.cache
+C:\Users\студент44\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Form1.resources
+C:\Users\студент44\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Properties.Resources.resources
+C:\Users\студент44\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.GenerateResource.cache
+C:\Users\студент44\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.CoreCompileInputs.cache
+C:\Users\студент44\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.exe
+C:\Users\студент44\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.pdb
+C:\Users\студент44\source\repos\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.login.resources
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.AssemblyReference.cache
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.SuggestedBindingRedirects.cache
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Form1.resources
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.login.resources
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Properties.Resources.resources
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.GenerateResource.cache
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.CoreCompileInputs.cache
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.exe
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.pdb
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe.config
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.pdb
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.check.resources
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.register.resources
+D:\ДЗ\РП\4 курс\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Form2.resources
+D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.csproj.AssemblyReference.cache
+D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.csproj.SuggestedBindingRedirects.cache
+D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.check.resources
+D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.Form1.resources
+D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.Form2.resources
+D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.login.resources
+D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.Properties.Resources.resources
+D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.register.resources
+D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.csproj.GenerateResource.cache
+D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.csproj.CoreCompileInputs.cache
+D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.exe
+D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.pdb
+D:\ДЗ\РП\4 курс\ass2018\bin\Debug\WindowsFormsApp33.exe.config
+D:\ДЗ\РП\4 курс\ass2018\bin\Debug\WindowsFormsApp33.exe
+D:\ДЗ\РП\4 курс\ass2018\bin\Debug\WindowsFormsApp33.pdb
