@@ -39,3 +39,19 @@ D:\ДЗ\РП\4 курс\ass2018\obj\Debug\WindowsFormsApp33.pdb
 D:\ДЗ\РП\4 курс\ass2018\bin\Debug\WindowsFormsApp33.exe.config
 D:\ДЗ\РП\4 курс\ass2018\bin\Debug\WindowsFormsApp33.exe
 D:\ДЗ\РП\4 курс\ass2018\bin\Debug\WindowsFormsApp33.pdb
+C:\wordskillsexe\ass2018-main\bin\Debug\WindowsFormsApp33.exe.config
+C:\wordskillsexe\ass2018-main\bin\Debug\WindowsFormsApp33.exe
+C:\wordskillsexe\ass2018-main\bin\Debug\WindowsFormsApp33.pdb
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.csproj.AssemblyReference.cache
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.csproj.SuggestedBindingRedirects.cache
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.check.resources
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.Form1.resources
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.Form2.resources
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.login.resources
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.Properties.Resources.resources
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.register.resources
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.regsiter2.resources
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.csproj.GenerateResource.cache
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.csproj.CoreCompileInputs.cache
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.exe
+C:\wordskillsexe\ass2018-main\obj\Debug\WindowsFormsApp33.pdb

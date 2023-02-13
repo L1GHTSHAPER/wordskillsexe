@@ -25,7 +25,7 @@ namespace WindowsFormsApp33
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form1 fr = new Form1();
+            check fr = new check();
             fr.Show();
             Hide();
         }
@@ -90,6 +90,11 @@ namespace WindowsFormsApp33
                 pictureBox1.Image = new Bitmap(ofd.FileName);
                 imageName.Text = ofd.SafeFileName;
             }
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
